@@ -1,16 +1,21 @@
-- 👋 Hi, I’m @bnocavalcanti, Welcome to my GitHub profile!
+- 👋 Hi, I’m Bruno Cavalcanti, Welcome to my GitHub profile!
 
 - I'm currently working as Software Developer!
 
 - My favorite tech components is:
-- ![alt text](https://bityli.com/tyI4gF)
+- Java
 
 - 🌱 I’m currently learning:
-- ![alt text](https://bityli.com/Zbn74g)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Python
 
-<!---
-bnocavalcanti/bnocavalcanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- In my free tyme, i also like to improve my programming skills!
+
+- 📫 How to reach me:
+
+ E-mail: bno.cavalcanti@gmail.com
+ 
+ Linkedin: www.linkedin.com/in/bnocavalcanti/
+
+
+
+
