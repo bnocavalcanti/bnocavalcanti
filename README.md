@@ -6,7 +6,10 @@
 - Java
 
 - 🌱 I’m currently learning:
-- Python
+- Java
+- Javascript
+- CSS
+- HTML
 
 - In my free tyme, i also like to improve my programming skills!
 
