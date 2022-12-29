@@ -3,10 +3,10 @@
 - I'm currently working as Software Developer!
 
 - My favorite tech components is:
-- Java
+- Java ☕
 
 - 🌱 I’m currently learning:
-- Java
+- Java 
 - Javascript
 - CSS
 - HTML
